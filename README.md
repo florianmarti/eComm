@@ -2,9 +2,7 @@
 
 Debajo estan los detalles básicos de una aplicación creada con React. Este es el trabajo final del curso de React de CoderHouse.
 
-## Link
 
-La aplicación se puede visualizar en el siguiente [Link](https://lacasaca-ecommerce.netlify.app/)
 
 ## Instalación
 
